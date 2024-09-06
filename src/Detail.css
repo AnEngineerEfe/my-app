@@ -1,0 +1,24 @@
+.photo{
+    transform: scale(0.85);
+}
+
+.explanations{
+    margin-top: 100px;
+    margin-left: 25px;
+}
+
+h5{
+    text-align: center;
+}
+
+.explanationsother{
+    margin-left:125px;
+    margin-right: 110px;
+    margin-top: 75px;
+}
+
+.font{
+    font-size: medium;
+    display: inline;
+    color:brown;
+}

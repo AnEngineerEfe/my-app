@@ -1,0 +1,19 @@
+.card{
+    background-color: bisque;
+
+}
+
+.footer{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(182, 142, 90);
+}
+
+h2{
+    padding-top: 20px;
+    color: #ffffff;
+}
+
+.internal{
+    padding-left: 10px;
+}
